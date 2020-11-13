@@ -6,6 +6,8 @@ NEW LINE FOR REBASING EXAMPLE
 
 ANOTHER LINE supriiise
 
+updating emergency fix
+
 ## Introduction
 
 This example is to show different parts of the Git repository and various commands using a web project.
